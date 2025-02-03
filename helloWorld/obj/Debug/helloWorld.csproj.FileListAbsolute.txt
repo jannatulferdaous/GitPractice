@@ -5,3 +5,10 @@ C:\Jannat_ALL_Files\project\helloWorld\obj\Debug\helloWorld.csproj.AssemblyRefer
 C:\Jannat_ALL_Files\project\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
 C:\Jannat_ALL_Files\project\helloWorld\obj\Debug\helloWorld.exe
 C:\Jannat_ALL_Files\project\helloWorld\obj\Debug\helloWorld.pdb
+C:\Jannat_ALL_Files\GIT\GitPractice\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Jannat_ALL_Files\GIT\GitPractice\helloWorld\bin\Debug\helloWorld.exe
+C:\Jannat_ALL_Files\GIT\GitPractice\helloWorld\bin\Debug\helloWorld.pdb
+C:\Jannat_ALL_Files\GIT\GitPractice\helloWorld\obj\Debug\helloWorld.csproj.AssemblyReference.cache
+C:\Jannat_ALL_Files\GIT\GitPractice\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+C:\Jannat_ALL_Files\GIT\GitPractice\helloWorld\obj\Debug\helloWorld.exe
+C:\Jannat_ALL_Files\GIT\GitPractice\helloWorld\obj\Debug\helloWorld.pdb
