@@ -3,8 +3,14 @@
   "WorkspaceRootPath": "C:\\Jannat_ALL_Files\\GIT\\GitPractice\\helloWorld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|helloWorld||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51B42C42-88F7-4E46-8773-7CD00AC7368E}|helloWorld.csproj|c:\\jannat_all_files\\git\\gitpractice\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51B42C42-88F7-4E46-8773-7CD00AC7368E}|helloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B42C42-88F7-4E46-8773-7CD00AC7368E}|helloWorld.csproj|c:\\jannat_all_files\\git\\gitpractice\\helloworld\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +25,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "helloWorld",
+              "DocumentMoniker": "C:\\Jannat_ALL_Files\\GIT\\GitPractice\\helloWorld\\helloWorld.csproj",
+              "RelativeDocumentMoniker": "helloWorld.csproj",
+              "ToolTip": "C:\\Jannat_ALL_Files\\GIT\\GitPractice\\helloWorld\\helloWorld.csproj",
+              "RelativeToolTip": "helloWorld.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-04T09:11:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Jannat_ALL_Files\\GIT\\GitPractice\\helloWorld\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Jannat_ALL_Files\\GIT\\GitPractice\\helloWorld\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T10:33:05.272Z",
               "EditorCaption": ""
